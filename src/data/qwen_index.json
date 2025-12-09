@@ -1,0 +1,488 @@
+[
+  {
+    "id": "output_20251207_114610_358182502_0000_45-55",
+    "title": "F Minor (45-55)",
+    "path": "./output_qwen/output_20251207_114610_358182502_0000_45-55/output_20251207114617/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_114610_358182502_0000_45-55/output_20251207114617/mas_report.json"
+  },
+  {
+    "id": "output_20251207_114610_368193060_0001_37-47",
+    "title": "D Major (37-47)",
+    "path": "./output_qwen/output_20251207_114610_368193060_0001_37-47/output_20251207114617/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_114610_368193060_0001_37-47/output_20251207114617/mas_report.json"
+  },
+  {
+    "id": "output_20251207_114610_377621086_0002_98-108",
+    "title": "F Major (98-108)",
+    "path": "./output_qwen/output_20251207_114610_377621086_0002_98-108/output_20251207114617/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_114610_377621086_0002_98-108/output_20251207114617/mas_report.json"
+  },
+  {
+    "id": "output_20251207_115635_208600792_0004_189-199",
+    "title": "D Major (189-199)",
+    "path": "./output_qwen/output_20251207_115635_208600792_0004_189-199/output_20251207115641/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_115635_208600792_0004_189-199/output_20251207115641/mas_report.json"
+  },
+  {
+    "id": "output_20251207_115914_180732637_0005_9-19",
+    "title": "F Minor (9-19)",
+    "path": "./output_qwen/output_20251207_115914_180732637_0005_9-19/output_20251207115920/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_115914_180732637_0005_9-19/output_20251207115920/mas_report.json"
+  },
+  {
+    "id": "output_20251207_120103_532258848_0006_127-137",
+    "title": "A# Minor (127-137)",
+    "path": "./output_qwen/output_20251207_120103_532258848_0006_127-137/output_20251207120109/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_120103_532258848_0006_127-137/output_20251207120109/mas_report.json"
+  },
+  {
+    "id": "output_20251207_120535_220426607_0008_35-45",
+    "title": "D# Major (35-45)",
+    "path": "./output_qwen/output_20251207_120535_220426607_0008_35-45/output_20251207120541/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_120535_220426607_0008_35-45/output_20251207120541/mas_report.json"
+  },
+  {
+    "id": "output_20251207_121009_412772502_0010_102-112",
+    "title": "F Major (102-112)",
+    "path": "./output_qwen/output_20251207_121009_412772502_0010_102-112/output_20251207121015/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_121009_412772502_0010_102-112/output_20251207121015/mas_report.json"
+  },
+  {
+    "id": "output_20251207_121507_669963074_0011_77-87",
+    "title": "D# Minor (77-87)",
+    "path": "./output_qwen/output_20251207_121507_669963074_0011_77-87/output_20251207121514/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_121507_669963074_0011_77-87/output_20251207121514/mas_report.json"
+  },
+  {
+    "id": "output_20251207_121515_086525136_0012_63-73",
+    "title": "A Minor (63-73)",
+    "path": "./output_qwen/output_20251207_121515_086525136_0012_63-73/output_20251207121521/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_121515_086525136_0012_63-73/output_20251207121521/mas_report.json"
+  },
+  {
+    "id": "output_20251207_122002_120851571_0013_69-79",
+    "title": "C# Minor (69-79)",
+    "path": "./output_qwen/output_20251207_122002_120851571_0013_69-79/output_20251207122009/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_122002_120851571_0013_69-79/output_20251207122009/mas_report.json"
+  },
+  {
+    "id": "output_20251207_122150_600623943_0015_209-219",
+    "title": "E Major (209-219)",
+    "path": "./output_qwen/output_20251207_122150_600623943_0015_209-219/output_20251207122157/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_122150_600623943_0015_209-219/output_20251207122157/mas_report.json"
+  },
+  {
+    "id": "output_20251207_122405_228900840_0016_185-195",
+    "title": "A Minor (185-195)",
+    "path": "./output_qwen/output_20251207_122405_228900840_0016_185-195/output_20251207122412/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_122405_228900840_0016_185-195/output_20251207122412/mas_report.json"
+  },
+  {
+    "id": "output_20251207_122406_707899321_0017_322-332",
+    "title": "A Minor (322-332)",
+    "path": "./output_qwen/output_20251207_122406_707899321_0017_322-332/output_20251207122413/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_122406_707899321_0017_322-332/output_20251207122413/mas_report.json"
+  },
+  {
+    "id": "output_20251207_122821_415042757_0018_85-95",
+    "title": "D# Minor (85-95)",
+    "path": "./output_qwen/output_20251207_122821_415042757_0018_85-95/output_20251207122828/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_122821_415042757_0018_85-95/output_20251207122828/mas_report.json"
+  },
+  {
+    "id": "output_20251207_123148_971866133_0019_92-102",
+    "title": "G Major (92-102)",
+    "path": "./output_qwen/output_20251207_123148_971866133_0019_92-102/output_20251207123155/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_123148_971866133_0019_92-102/output_20251207123155/mas_report.json"
+  },
+  {
+    "id": "output_20251207_123233_941030225_0020_512-522",
+    "title": "G Minor (512-522)",
+    "path": "./output_qwen/output_20251207_123233_941030225_0020_512-522/output_20251207123240/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_123233_941030225_0020_512-522/output_20251207123240/mas_report.json"
+  },
+  {
+    "id": "output_20251207_123712_125863488_0021_79-89",
+    "title": "E Major (79-89)",
+    "path": "./output_qwen/output_20251207_123712_125863488_0021_79-89/output_20251207123719/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_123712_125863488_0021_79-89/output_20251207123719/mas_report.json"
+  },
+  {
+    "id": "output_20251207_124351_285771590_0022_49-59",
+    "title": "F# Major (49-59)",
+    "path": "./output_qwen/output_20251207_124351_285771590_0022_49-59/output_20251207124358/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_124351_285771590_0022_49-59/output_20251207124358/mas_report.json"
+  },
+  {
+    "id": "output_20251207_124616_655518377_0023_99-109",
+    "title": "F# Major (99-109)",
+    "path": "./output_qwen/output_20251207_124616_655518377_0023_99-109/output_20251207124623/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_124616_655518377_0023_99-109/output_20251207124623/mas_report.json"
+  },
+  {
+    "id": "output_20251207_125113_089595146_0024_135-145",
+    "title": "F# Minor (135-145)",
+    "path": "./output_qwen/output_20251207_125113_089595146_0024_135-145/output_20251207125119/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_125113_089595146_0024_135-145/output_20251207125119/mas_report.json"
+  },
+  {
+    "id": "output_20251207_125625_037961070_0026_159-169",
+    "title": "B Major (159-169)",
+    "path": "./output_qwen/output_20251207_125625_037961070_0026_159-169/output_20251207125631/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_125625_037961070_0026_159-169/output_20251207125631/mas_report.json"
+  },
+  {
+    "id": "output_20251207_125902_746052958_0027_198-208",
+    "title": "F# Major (198-208)",
+    "path": "./output_qwen/output_20251207_125902_746052958_0027_198-208/output_20251207125909/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_125902_746052958_0027_198-208/output_20251207125909/mas_report.json"
+  },
+  {
+    "id": "output_20251207_130104_132939668_0028_153-163",
+    "title": "F# Major (153-163)",
+    "path": "./output_qwen/output_20251207_130104_132939668_0028_153-163/output_20251207130110/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_130104_132939668_0028_153-163/output_20251207130110/mas_report.json"
+  },
+  {
+    "id": "output_20251207_130231_763080275_0029_25-35",
+    "title": "G# Minor (25-35)",
+    "path": "./output_qwen/output_20251207_130231_763080275_0029_25-35/output_20251207130238/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_130231_763080275_0029_25-35/output_20251207130238/mas_report.json"
+  },
+  {
+    "id": "output_20251207_131224_053152214_0030_133-143",
+    "title": "D Major (133-143)",
+    "path": "./output_qwen/output_20251207_131224_053152214_0030_133-143/output_20251207131230/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_131224_053152214_0030_133-143/output_20251207131230/mas_report.json"
+  },
+  {
+    "id": "output_20251207_131243_336670281_0031_15-25",
+    "title": "D Minor (15-25)",
+    "path": "./output_qwen/output_20251207_131243_336670281_0031_15-25/output_20251207131249/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_131243_336670281_0031_15-25/output_20251207131249/mas_report.json"
+  },
+  {
+    "id": "output_20251207_131630_672606035_0032_49-59",
+    "title": "C Minor (49-59)",
+    "path": "./output_qwen/output_20251207_131630_672606035_0032_49-59/output_20251207131637/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_131630_672606035_0032_49-59/output_20251207131637/mas_report.json"
+  },
+  {
+    "id": "output_20251207_131840_489438935_0033_335-345",
+    "title": "G# Minor (335-345)",
+    "path": "./output_qwen/output_20251207_131840_489438935_0033_335-345/output_20251207131847/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_131840_489438935_0033_335-345/output_20251207131847/mas_report.json"
+  },
+  {
+    "id": "output_20251207_132026_744327534_0034_54-64",
+    "title": "A# Minor (54-64)",
+    "path": "./output_qwen/output_20251207_132026_744327534_0034_54-64/output_20251207132033/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_132026_744327534_0034_54-64/output_20251207132033/mas_report.json"
+  },
+  {
+    "id": "output_20251207_132437_382148958_0036_241-251",
+    "title": "G# Minor (241-251)",
+    "path": "./output_qwen/output_20251207_132437_382148958_0036_241-251/output_20251207132444/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_132437_382148958_0036_241-251/output_20251207132444/mas_report.json"
+  },
+  {
+    "id": "output_20251207_132708_717107484_0037_207-217",
+    "title": "F# Minor (207-217)",
+    "path": "./output_qwen/output_20251207_132708_717107484_0037_207-217/output_20251207132715/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_132708_717107484_0037_207-217/output_20251207132715/mas_report.json"
+  },
+  {
+    "id": "output_20251207_133202_755867034_0038_178-188",
+    "title": "C Minor (178-188)",
+    "path": "./output_qwen/output_20251207_133202_755867034_0038_178-188/output_20251207133209/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_133202_755867034_0038_178-188/output_20251207133209/mas_report.json"
+  },
+  {
+    "id": "output_20251207_133420_829650408_0039_39-49",
+    "title": "G# Minor (39-49)",
+    "path": "./output_qwen/output_20251207_133420_829650408_0039_39-49/output_20251207133427/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_133420_829650408_0039_39-49/output_20251207133427/mas_report.json"
+  },
+  {
+    "id": "output_20251207_133703_275848784_0040_129-139",
+    "title": "G Major (129-139)",
+    "path": "./output_qwen/output_20251207_133703_275848784_0040_129-139/output_20251207133709/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_133703_275848784_0040_129-139/output_20251207133709/mas_report.json"
+  },
+  {
+    "id": "output_20251207_133936_073486924_0041_141-151",
+    "title": "D# Minor (141-151)",
+    "path": "./output_qwen/output_20251207_133936_073486924_0041_141-151/output_20251207133942/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_133936_073486924_0041_141-151/output_20251207133942/mas_report.json"
+  },
+  {
+    "id": "output_20251207_134050_788868156_0042_137-147",
+    "title": "B Major (137-147)",
+    "path": "./output_qwen/output_20251207_134050_788868156_0042_137-147/output_20251207134057/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_134050_788868156_0042_137-147/output_20251207134057/mas_report.json"
+  },
+  {
+    "id": "output_20251207_134213_514092254_0043_170-180",
+    "title": "E Major (170-180)",
+    "path": "./output_qwen/output_20251207_134213_514092254_0043_170-180/output_20251207134220/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_134213_514092254_0043_170-180/output_20251207134220/mas_report.json"
+  },
+  {
+    "id": "output_20251207_134823_952056545_0045_141-151",
+    "title": "A Minor (141-151)",
+    "path": "./output_qwen/output_20251207_134823_952056545_0045_141-151/output_20251207134830/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_134823_952056545_0045_141-151/output_20251207134830/mas_report.json"
+  },
+  {
+    "id": "output_20251207_135344_535407389_0049_93-103",
+    "title": "F Minor (93-103)",
+    "path": "./output_qwen/output_20251207_135344_535407389_0049_93-103/output_20251207135351/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_135344_535407389_0049_93-103/output_20251207135351/mas_report.json"
+  },
+  {
+    "id": "output_20251207_135903_832532688_0051_75-85",
+    "title": "G Minor (75-85)",
+    "path": "./output_qwen/output_20251207_135903_832532688_0051_75-85/output_20251207135910/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_135903_832532688_0051_75-85/output_20251207135910/mas_report.json"
+  },
+  {
+    "id": "output_20251207_140003_394683659_0052_2-12",
+    "title": "F Minor (2-12)",
+    "path": "./output_qwen/output_20251207_140003_394683659_0052_2-12/output_20251207140010/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_140003_394683659_0052_2-12/output_20251207140010/mas_report.json"
+  },
+  {
+    "id": "output_20251207_140305_507989331_0053_61-71",
+    "title": "E Major (61-71)",
+    "path": "./output_qwen/output_20251207_140305_507989331_0053_61-71/output_20251207140312/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_140305_507989331_0053_61-71/output_20251207140312/mas_report.json"
+  },
+  {
+    "id": "output_20251207_140413_888703432_0054_146-156",
+    "title": "C Minor (146-156)",
+    "path": "./output_qwen/output_20251207_140413_888703432_0054_146-156/output_20251207140420/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_140413_888703432_0054_146-156/output_20251207140420/mas_report.json"
+  },
+  {
+    "id": "output_20251207_140917_454218590_0055_108-118",
+    "title": "A Minor (108-118)",
+    "path": "./output_qwen/output_20251207_140917_454218590_0055_108-118/output_20251207140924/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_140917_454218590_0055_108-118/output_20251207140924/mas_report.json"
+  },
+  {
+    "id": "output_20251207_141325_896433461_0056_71-81",
+    "title": "C Minor (71-81)",
+    "path": "./output_qwen/output_20251207_141325_896433461_0056_71-81/output_20251207141332/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_141325_896433461_0056_71-81/output_20251207141332/mas_report.json"
+  },
+  {
+    "id": "output_20251207_141528_110878612_0057_378-388",
+    "title": "E Minor (378-388)",
+    "path": "./output_qwen/output_20251207_141528_110878612_0057_378-388/output_20251207141534/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_141528_110878612_0057_378-388/output_20251207141534/mas_report.json"
+  },
+  {
+    "id": "output_20251207_141700_196530939_0058_108-118",
+    "title": "G# Minor (108-118)",
+    "path": "./output_qwen/output_20251207_141700_196530939_0058_108-118/output_20251207141707/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_141700_196530939_0058_108-118/output_20251207141707/mas_report.json"
+  },
+  {
+    "id": "output_20251207_142114_009141718_0059_72-82",
+    "title": "D Major (72-82)",
+    "path": "./output_qwen/output_20251207_142114_009141718_0059_72-82/output_20251207142120/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_142114_009141718_0059_72-82/output_20251207142120/mas_report.json"
+  },
+  {
+    "id": "output_20251207_142619_474388961_0060_32-42",
+    "title": "F# Major (32-42)",
+    "path": "./output_qwen/output_20251207_142619_474388961_0060_32-42/output_20251207142626/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_142619_474388961_0060_32-42/output_20251207142626/mas_report.json"
+  },
+  {
+    "id": "output_20251207_143043_272871263_0061_182-192",
+    "title": "D Minor (182-192)",
+    "path": "./output_qwen/output_20251207_143043_272871263_0061_182-192/output_20251207143050/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_143043_272871263_0061_182-192/output_20251207143050/mas_report.json"
+  },
+  {
+    "id": "output_20251207_143304_748740403_0063_164-174",
+    "title": "A Minor (164-174)",
+    "path": "./output_qwen/output_20251207_143304_748740403_0063_164-174/output_20251207143311/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_143304_748740403_0063_164-174/output_20251207143311/mas_report.json"
+  },
+  {
+    "id": "output_20251207_143520_878047060_0064_194-204",
+    "title": "B Minor (194-204)",
+    "path": "./output_qwen/output_20251207_143520_878047060_0064_194-204/output_20251207143527/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_143520_878047060_0064_194-204/output_20251207143527/mas_report.json"
+  },
+  {
+    "id": "output_20251207_144009_397341927_0065_0-10",
+    "title": "C# Minor (0-10)",
+    "path": "./output_qwen/output_20251207_144009_397341927_0065_0-10/output_20251207144016/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_144009_397341927_0065_0-10/output_20251207144016/mas_report.json"
+  },
+  {
+    "id": "output_20251207_144141_138371802_0067_105-115",
+    "title": "G Minor (105-115)",
+    "path": "./output_qwen/output_20251207_144141_138371802_0067_105-115/output_20251207144147/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_144141_138371802_0067_105-115/output_20251207144147/mas_report.json"
+  },
+  {
+    "id": "output_20251207_144839_967914552_0069_285-295",
+    "title": "E Major (285-295)",
+    "path": "./output_qwen/output_20251207_144839_967914552_0069_285-295/output_20251207144846/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_144839_967914552_0069_285-295/output_20251207144846/mas_report.json"
+  },
+  {
+    "id": "output_20251207_145012_588602606_0070_126-136",
+    "title": "C# Major (126-136)",
+    "path": "./output_qwen/output_20251207_145012_588602606_0070_126-136/output_20251207145019/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_145012_588602606_0070_126-136/output_20251207145019/mas_report.json"
+  },
+  {
+    "id": "output_20251207_145724_557249352_0072_103-113",
+    "title": "D Minor (103-113)",
+    "path": "./output_qwen/output_20251207_145724_557249352_0072_103-113/output_20251207145731/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_145724_557249352_0072_103-113/output_20251207145731/mas_report.json"
+  },
+  {
+    "id": "output_20251207_150309_660163910_0073_106-116",
+    "title": "C Minor (106-116)",
+    "path": "./output_qwen/output_20251207_150309_660163910_0073_106-116/output_20251207150316/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_150309_660163910_0073_106-116/output_20251207150316/mas_report.json"
+  },
+  {
+    "id": "output_20251207_150334_072933548_0074_48-58",
+    "title": "G Minor (48-58)",
+    "path": "./output_qwen/output_20251207_150334_072933548_0074_48-58/output_20251207150341/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_150334_072933548_0074_48-58/output_20251207150341/mas_report.json"
+  },
+  {
+    "id": "output_20251207_150628_513044610_0075_108-118",
+    "title": "E Minor (108-118)",
+    "path": "./output_qwen/output_20251207_150628_513044610_0075_108-118/output_20251207150635/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_150628_513044610_0075_108-118/output_20251207150635/mas_report.json"
+  },
+  {
+    "id": "output_20251207_150935_730763711_0076_149-159",
+    "title": "D# Minor (149-159)",
+    "path": "./output_qwen/output_20251207_150935_730763711_0076_149-159/output_20251207150942/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_150935_730763711_0076_149-159/output_20251207150942/mas_report.json"
+  },
+  {
+    "id": "output_20251207_151154_078600257_0077_37-47",
+    "title": "E Major (37-47)",
+    "path": "./output_qwen/output_20251207_151154_078600257_0077_37-47/output_20251207151200/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_151154_078600257_0077_37-47/output_20251207151200/mas_report.json"
+  },
+  {
+    "id": "output_20251207_151235_535785363_0078_178-188",
+    "title": "C Minor (178-188)",
+    "path": "./output_qwen/output_20251207_151235_535785363_0078_178-188/output_20251207151242/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_151235_535785363_0078_178-188/output_20251207151242/mas_report.json"
+  },
+  {
+    "id": "output_20251207_151956_433227612_0079_11-21",
+    "title": "B Major (11-21)",
+    "path": "./output_qwen/output_20251207_151956_433227612_0079_11-21/output_20251207152003/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_151956_433227612_0079_11-21/output_20251207152003/mas_report.json"
+  },
+  {
+    "id": "output_20251207_152347_980370222_0080_669-679",
+    "title": "E Major (669-679)",
+    "path": "./output_qwen/output_20251207_152347_980370222_0080_669-679/output_20251207152354/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_152347_980370222_0080_669-679/output_20251207152354/mas_report.json"
+  },
+  {
+    "id": "output_20251207_152614_145041713_0082_102-112",
+    "title": "F# Minor (102-112)",
+    "path": "./output_qwen/output_20251207_152614_145041713_0082_102-112/output_20251207152620/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_152614_145041713_0082_102-112/output_20251207152620/mas_report.json"
+  },
+  {
+    "id": "output_20251207_153212_354519308_0084_139-149",
+    "title": "A# Minor (139-149)",
+    "path": "./output_qwen/output_20251207_153212_354519308_0084_139-149/output_20251207153219/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_153212_354519308_0084_139-149/output_20251207153219/mas_report.json"
+  },
+  {
+    "id": "output_20251207_153412_437814689_0085_242-252",
+    "title": "C Minor (242-252)",
+    "path": "./output_qwen/output_20251207_153412_437814689_0085_242-252/output_20251207153419/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_153412_437814689_0085_242-252/output_20251207153419/mas_report.json"
+  },
+  {
+    "id": "output_20251207_153528_188360333_0086_62-72",
+    "title": "C# Minor (62-72)",
+    "path": "./output_qwen/output_20251207_153528_188360333_0086_62-72/output_20251207153534/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_153528_188360333_0086_62-72/output_20251207153534/mas_report.json"
+  },
+  {
+    "id": "output_20251207_153838_868948270_0087_165-175",
+    "title": "B Major (165-175)",
+    "path": "./output_qwen/output_20251207_153838_868948270_0087_165-175/output_20251207153845/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_153838_868948270_0087_165-175/output_20251207153845/mas_report.json"
+  },
+  {
+    "id": "output_20251207_154034_299570432_0088_150-160",
+    "title": "A Minor (150-160)",
+    "path": "./output_qwen/output_20251207_154034_299570432_0088_150-160/output_20251207154041/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_154034_299570432_0088_150-160/output_20251207154041/mas_report.json"
+  },
+  {
+    "id": "output_20251207_154344_538621957_0089_449-459",
+    "title": "C Minor (449-459)",
+    "path": "./output_qwen/output_20251207_154344_538621957_0089_449-459/output_20251207154351/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_154344_538621957_0089_449-459/output_20251207154351/mas_report.json"
+  },
+  {
+    "id": "output_20251207_154627_414668015_0091_32-42",
+    "title": "E Major (32-42)",
+    "path": "./output_qwen/output_20251207_154627_414668015_0091_32-42/output_20251207154633/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_154627_414668015_0091_32-42/output_20251207154633/mas_report.json"
+  },
+  {
+    "id": "output_20251207_154755_595477473_0092_48-58",
+    "title": "B Major (48-58)",
+    "path": "./output_qwen/output_20251207_154755_595477473_0092_48-58/output_20251207154802/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_154755_595477473_0092_48-58/output_20251207154802/mas_report.json"
+  },
+  {
+    "id": "output_20251207_155040_092541503_0093_2-12",
+    "title": "F Minor (2-12)",
+    "path": "./output_qwen/output_20251207_155040_092541503_0093_2-12/output_20251207155046/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_155040_092541503_0093_2-12/output_20251207155046/mas_report.json"
+  },
+  {
+    "id": "output_20251207_155717_183418703_0095_98-108",
+    "title": "G# Major (98-108)",
+    "path": "./output_qwen/output_20251207_155717_183418703_0095_98-108/output_20251207155724/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_155717_183418703_0095_98-108/output_20251207155724/mas_report.json"
+  },
+  {
+    "id": "output_20251207_155757_325565469_0096_178-188",
+    "title": "F Minor (178-188)",
+    "path": "./output_qwen/output_20251207_155757_325565469_0096_178-188/output_20251207155804/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_155757_325565469_0096_178-188/output_20251207155804/mas_report.json"
+  },
+  {
+    "id": "output_20251207_160206_747861484_0097_45-55",
+    "title": "E Minor (45-55)",
+    "path": "./output_qwen/output_20251207_160206_747861484_0097_45-55/output_20251207160213/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_160206_747861484_0097_45-55/output_20251207160213/mas_report.json"
+  },
+  {
+    "id": "output_20251207_160311_806867461_0098_160-170",
+    "title": "E Major (160-170)",
+    "path": "./output_qwen/output_20251207_160311_806867461_0098_160-170/output_20251207160318/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_160311_806867461_0098_160-170/output_20251207160318/mas_report.json"
+  },
+  {
+    "id": "output_20251207_161213_887811337_0099_163-173",
+    "title": "F Major (163-173)",
+    "path": "./output_qwen/output_20251207_161213_887811337_0099_163-173/output_20251207161220/mas_report.json",
+    "fullPath": "/Users/kdk/Desktop/2025/mastudio_fe/output_qwen/output_20251207_161213_887811337_0099_163-173/output_20251207161220/mas_report.json"
+  }
+]
